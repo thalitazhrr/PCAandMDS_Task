@@ -1,4 +1,4 @@
-# 📊 PCA & MDS Visualization from Scratch on Iris Dataset
+# 📊 Assignment Data Analytics: Implementation and Comparative Analysis of PCA and MDS
 
 ## Identitas Mahasiswa  
 **Nama:** Thalita Zahra Sutejo  
