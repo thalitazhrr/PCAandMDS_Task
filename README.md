@@ -8,6 +8,18 @@
 ## 📌 Deskripsi Singkat  
 Tugas ini merupakan implementasi dan analisis dua teknik *dimensionality reduction* — **Principal Component Analysis (PCA)** dan **Multidimensional Scaling (MDS)** — secara manual (*from scratch*) pada dataset klasik **Iris**. Proses dilakukan secara bertahap mulai dari *data cleaning*, *preprocessing*, perhitungan manual PCA dan MDS, hingga visualisasi serta analisis hasil proyeksi dua dimensi dari kedua metode.
 
+**Repository GitHub (kode dan dokumentasi):**
+https://github.com/thalitazhrr/PCAandMDS_Task
+
+**Notebook interaktif (Google Colaboratory):**
+https://colab.research.google.com/drive/1gUe9PwsLdgskNYFFg1pzmCxdEf6YeLMf?authuser=0
+
+**Laporan lengkap (Google Docs):**
+https://docs.google.com/document/d/1gFudJu8aiUJDwcsIgLwj2eDMLOP7jWEh/edit?usp=sharing
+
+**Folder Google Drive (berisi seluruh file pendukung):**
+https://drive.google.com/drive/folders/10ST655gzlw31SHgisZyxxDbgxGnpB_nc
+
 
 ## 🧰 Tools dan Bahasa Pemrograman  
 - **Python** (Jupyter Notebook)  
